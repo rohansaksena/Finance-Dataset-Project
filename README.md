@@ -1,5 +1,5 @@
 # Finance Data Project
-In this project we will focus on the exploratory data analysis of stock prices. We will get the data using pandas datareader and will get the stock information for the following banks: Bank of America, CitiGroup, Goldman Sachs, JPMorgan Chase, Morgan Stanley, Wells Fargo from Jan 1st 2006 to Jan 1st 2016 for each of these banks.<br>
+In this project we will focus on the exploratory data analysis of stock prices. We will get the data using pandas datareader and will get the stock information for the following banks: Bank of America, CitiGroup, Goldman Sachs, JPMorgan Chase, Morgan Stanley, Wells Fargo from Jan 1st 2011 to Jan 1st 2021 for each of these banks.<br>
 
 Open, High, Low, Close, Volume are the columns in the dataset we retrieve.
 
