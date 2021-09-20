@@ -18,8 +18,8 @@ import seaborn as sns
 import datetime as dt
 import cufflinks as cf
 ```
-### *EDA
-Let's explore the data a bit!*
+### *EDA*
+*Let's explore the data a bit!*
 
 ### Use datetime to set start and end datetime objects and then use datareader to grab info on the stock.
 ```
